@@ -1,9 +1,0 @@
-langcode: en
-status: true
-dependencies:
-  enforced:
-    module:
-      - quiz_matching
-id: matching
-label: 'Matching question'
-

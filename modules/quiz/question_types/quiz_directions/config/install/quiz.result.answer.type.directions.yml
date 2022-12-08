@@ -1,8 +1,0 @@
-id: directions
-label: Directions response
-dependencies:
-  enforced:
-    module:
-      - quiz_directions
-  module:
-    - quiz_directions

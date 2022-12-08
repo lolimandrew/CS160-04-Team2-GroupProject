@@ -1,9 +1,0 @@
-langcode: en
-status: true
-dependencies:
-  enforced:
-    module:
-      - quiz_long_answer
-id: long_answer
-label: 'Long answer question'
-
