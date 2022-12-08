@@ -1,0 +1,9 @@
+name: Flippy
+description: Allows administrators to define custom pagers for navigation in lists of nodes.
+type: module
+core_version_requirement: ^9.1 || ^10
+
+# Information added by Drupal.org packaging script on 2022-10-14
+version: '2.0.0-beta0'
+project: 'flippy'
+datestamp: 1665739298
